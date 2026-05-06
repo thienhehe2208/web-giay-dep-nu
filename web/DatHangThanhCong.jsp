@@ -13,6 +13,7 @@
     <div class="success-box">
         <div class="success-icon">🎉</div>
         <h2>Đặt hàng thành công!</h2>
+        <p>Mã đơn hàng: <strong>#${orderId}</strong></p>
         <p>Cảm ơn <strong>${customerName}</strong> đã mua sắm tại TTQ SHOP.</p>
         <p>Đơn hàng sẽ được giao đến:</p>
         <p><strong>${customerAddress}</strong></p>
