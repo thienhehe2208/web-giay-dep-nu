@@ -1,2 +1,5 @@
 /bai-tap-web/dist/
 /bai-tap-web/build/
+build/
+dist/
+nbproject/
